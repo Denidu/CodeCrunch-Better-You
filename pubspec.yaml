@@ -9,6 +9,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  hexcolor: ^3.0.1
+  device_preview: ^1.1.0
+  file_picker: ^6.1.1
+  http: ^1.1.0
+  getwidget: ^4.0.0
+  camera: ^0.10.5+7
+  video_player: ^2.8.1
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +24,14 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+  - assets/white.png
+  - assets/wheelChair.png
+  - assets/video-camera.png
+  - assets/Shoulderpress.jpg
+  - assets/info1.jpg
+  - assets/dbShoulderPress.png
+  - assets/chair.png
+  - assets/blue1.png
+  - assets/blue.png
+  - assets/back.png
