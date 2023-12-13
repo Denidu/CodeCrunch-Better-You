@@ -7,4 +7,3 @@ To use this app, follow these steps:
 1. **Download the App**: Clone or download the repository to your local machine
 2. **Install Dependencies**: Make sure you have the required dependencies installed. You can find the list in the 'file name' file.
 3. **Run the App**: Launch the app and start exercising. 
-# Usage
